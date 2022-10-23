@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning Java, iOS
+- 🌱 I’m currently learning Java, Backend Development
 - 📫 How to reach me: iamyoojincha@gmail.com
 <br/>
 <br/>
